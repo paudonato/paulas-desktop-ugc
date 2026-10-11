@@ -12,6 +12,9 @@ paulas-desktop-ugc-complete/
 ├── README.md
 └── assets/
     └── paula-portrait.jpg
+    ├── skincare.png
+    ├── desk-setup.png
+    └── unboxing.png
 ```
 
 Do not upload only `index.html`. Upload all files and the entire `assets` folder to the **same repository root**.
